@@ -1,0 +1,1 @@
+# veritaban-yonetim-sistemleri
