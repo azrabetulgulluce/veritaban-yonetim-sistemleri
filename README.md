@@ -1,1 +1,1 @@
-# veritaban-yonetim-sistemleri
+# veritabani-yonetim-sistemleri
